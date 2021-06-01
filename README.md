@@ -6,6 +6,3 @@ The logic for parsing and inserting of user inputs is already taken care of in m
 
 What you have to do is now make a <form> capable of collecting the correct information so that the newly crafted story makes sense!
 
-Note: Save your code as you follow the steps to see your progress!
-
-If you get stuck during this project, check out the project walkthrough video which can be found in the help menu.****
